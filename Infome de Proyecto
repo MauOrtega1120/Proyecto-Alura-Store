@@ -1,0 +1,56 @@
+# 📊 Informe de Consultoría: Optimización de Portafolio Alura Store
+
+## 1. Introducción
+El presente análisis tiene como objetivo brindar una recomendación estratégica al **Sr. Juan**, propietario de **Alura Store**, quien busca identificar cuál de sus cuatro tiendas presenta el rendimiento más bajo. El propósito es desinvertir en dicha sucursal para obtener capital y emprender un nuevo modelo de negocio.
+
+Para determinar la tienda a vender, se evaluaron cinco pilares fundamentales de rendimiento:
+* Facturación total.
+* Popularidad de categorías.
+* Satisfacción del cliente (Calificaciones).
+* Rotación de productos (Más y menos vendidos).
+* Eficiencia logística (Costos de envío).
+
+---
+
+## 2. Desarrollo del Análisis
+
+### 2.1 Desempeño Financiero (Facturación)
+Tras procesar los datos, observamos una brecha significativa en los ingresos:
+* **Tienda 1:** $1,150,880,400 (Líder en ventas)
+* **Tienda 4:** $1,038,375,700 (Menor facturación)
+
+
+
+### 2.2 Satisfacción del Cliente y Logística
+Aunque la **Tienda 1** genera más ingresos, es la que tiene la calificación promedio más baja (**3.98**) y los costos de envío más altos (**$26,018**), lo que sugiere problemas de eficiencia operativa o saturación.
+
+Por otro lado, la **Tienda 3** destaca por tener la mejor relación con el cliente, alcanzando un promedio de **4.05 estrellas**.
+
+### 2.3 Análisis de Productos y Categorías
+En las cuatro tiendas, las categorías de **Muebles** y **Electrónicos** dominan el volumen de ventas. Sin embargo, en la **Tienda 4**, productos como la "Guitarra eléctrica" y el "Armario" presentan una rotación muy baja, lo que indica que el inventario no está alineado con la demanda local de esa zona específica.
+
+---
+
+## 3. Matriz Comparativa
+
+| Indicador | Tienda 1 | Tienda 2 | Tienda 3 | Tienda 4 |
+| :--- | :---: | :---: | :---: | :---: |
+| **Facturación** | Alta (Máxima) | Media-Alta | Media-Baja | **Baja (Mínima)** |
+| **Calificación** | 3.98 (Mínima) | 4.04 | **4.05 (Máxima)** | 4.00 |
+| **Costo Envío** | $26,018 (Caro) | $25,216 | $24,805 | **$23,459 (Barato)** |
+
+---
+
+## 4. Conclusión y Recomendación Final
+
+Tras evaluar los datos, la recomendación para el Sr. Juan es **vender la Tienda 4**.
+
+### Justificación:
+* **Baja Rentabilidad Relativa:** Es la tienda que menos ingresos aporta al grupo. Existe una diferencia de más de $112 millones respecto a la Tienda 1.
+* **Bajo Potencial de Crecimiento:** A pesar de tener los costos de envío más bajos (lo cual debería incentivar las ventas), no logra superar a las demás tiendas en facturación ni en calificación, lo que sugiere una demanda estancada en su ubicación actual.
+* **Costo de Oportunidad:** Mantener la Tienda 4 requiere un esfuerzo operativo que no se traduce en el retorno financiero que sí ofrecen las Tiendas 1 y 2.
+
+**Decisión:** Se sugiere proceder con la venta de la **Tienda 4** para liberar capital de manera estratégica, manteniendo las tiendas 1, 2 y 3 que presentan una base de clientes más sólida y mayor volumen de transacciones.
+
+---
+*Informe generado como parte del Challenge Alura Store - Análisis de Datos con Python.*
