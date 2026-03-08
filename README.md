@@ -60,6 +60,6 @@ Error de carga de archivos: Asegúrate de que los archivos .csv estén en la mis
 
 Visualización vacía: Si los gráficos no se muestran, verifica que has incluido la línea %matplotlib inline o ejecutado plt.show().
 
-Autor: [Tu Nombre]
+Autor: Emilio Mauricio Ortega Salazar
 
 Curso: Ciencia de Datos con Python - Alura Latam / Oracle Next Education.
